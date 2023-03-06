@@ -1,0 +1,13 @@
+Version PHP: 8.2.0
+Version base de datos: libmysql - mysqlnd 8.2.0
+
+Para agregar el proyecto en su ambiente local:
+
+1.- Desde el panel de control de xampp seleccione la opcion Admin de MySQL.
+2.- Una vez abierto el panel de control de MySQL, dirijase al apartado superior de la vista de admin y selecciona le opcion 'IMPORTAR'.
+3.- Habiendo ingresado al apartado de importar, debe seleccionar el archivo que desea importar.
+4.- presione sobre el boton seleccionar archivo y entre a la carpeta que contiene el proyecto.
+5.- Estando dentro de la carpeta del proyecto, entre nuevamente pero ahora a la carpeta "Archivo SQL".
+6.- Seleccione el archivo script, que creará las base de datos y las tabalas correspondientes con su respectiva información.
+7.- Cuando haya cargado el archivo, presione el boton que dice Importar ubicado en la parte inferior izquierda del apartado.
+8.- Espere a que MySQL importe la base de datos para poder comenzar a utilizar el proyecto incorporado.
