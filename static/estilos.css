@@ -1,0 +1,63 @@
+/* estilos */
+
+#nombre{
+    margin-left: 100px;
+    width: 30%;
+    padding: 5px 20px;
+}
+
+#alias{
+    margin-left: 190px;
+    width: 30%;
+    padding: 5px 20px;
+}
+
+#rut{
+    margin-left: 193px;
+    width: 30%;
+    padding: 5px 20px;
+}
+
+#email{
+    margin-left: 187px;
+    width: 30%;
+    padding: 5px 20px;
+}
+
+#region{
+    margin-left: 179px;
+}
+
+#comuna{
+    margin-left: 171px;
+}
+
+#candidato{
+    margin-left: 160px;
+}
+
+.formulario__voto {
+    margin-bottom: 10px;
+  }
+
+.formulario {
+    margin-top: 20px;
+    position: absolute;
+}
+
+
+.votar {
+    cursor: pointer;
+}
+
+.select {
+    width: 37.5%;
+    padding: 5px 20px;
+
+}
+
+.title {
+    margin-top: 20px;
+}
+
+
